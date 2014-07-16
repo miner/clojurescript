@@ -1,3 +1,19 @@
+## What is Gulliver? ##
+
+A forked version of ClojureScript targeting Swift.  Totally experimental.  And not at all
+usable.  So... don't bother.
+
+	“My hours of leisure I spent in reading the best authors, ancient and modern, being
+	always provided with a good number of books; and when I was ashore, in observing the
+	manners and dispositions of the people, as well as learning their language; wherein I
+	had a great facility, by the strength of my memory.”
+
+	― Jonathan Swift, _Gulliver's Travels_
+
+---------
+
+** The rest of this README is from the original ClojureScript source. **
+
 ## What is ClojureScript? ##
 
 ClojureScript is a new compiler for [Clojure](http://clojure.org) that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the [Google Closure](http://code.google.com/closure/) optimizing compiler.
