@@ -8,11 +8,11 @@ usable.  So... don't bother.
 	manners and dispositions of the people, as well as learning their language; wherein I
 	had a great facility, by the strength of my memory.”
 
-	― Jonathan Swift, _Gulliver's Travels_
+	― Jonathan Swift, *Gulliver's Travels*
 
 ---------
 
-** The rest of this README is from the original ClojureScript source. **
+  ** The rest of this README is from the original ClojureScript source. **
 
 ## What is ClojureScript? ##
 
